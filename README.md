@@ -1,14 +1,13 @@
 # nekot_radio_off  
 
-A script to automatically turn off the vehicle radio when entering a vehicle and turn it off again after 10 seconds.  
+A script to automatically turn off the vehicle radio when entering a vehicle.  
 
-乗車1秒後と10秒後に自動でラジオ局をオフに設定  
-乗車中にラジオ局の変更可能  
-  
+You can manually turn off the car radio station using a command.
+Note: These commands must be used while in a vehicle.
 /offradio  
-    Turn off the radio station using a command.　ラジオ局をオフに設定。ラジオ局の変更可能。  
+    Turn off the radio station using a command.
 /noradio  
-    Disable the radio using a command.　ラジオを無効化（ガレージに一度しまうと有効に戻ります）  
+    Disable the radio using a command.
 
 # nekot_radio_offc  
 

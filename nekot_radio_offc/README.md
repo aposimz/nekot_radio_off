@@ -1,6 +1,8 @@
 # nekot_radio_offc  
 
+You can manually turn off the car radio station using a command.
+Note: These commands must be used while in a vehicle.
 /offradio  
-    Turn off the radio station using a command.　ラジオ局をオフに設定。ラジオ局の変更可能。  
+    Turn off the radio station using a command.
 /noradio  
-    Disable the radio using a command.　ラジオを無効化（ガレージに一度しまうと有効に戻ります）  
+    Disable the radio using a command.
